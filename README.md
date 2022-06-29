@@ -9,7 +9,7 @@ Vrancx, P., Nowé, A. and Verbeeck, K. (2004). Multi-type Ant Colony: The Edge D
 
 | Name     | Student number                        | Email address                               |
 | :---     | :---                          | :---                                |
-| Robin De Haes | 0565683 | [robin.de.haes@vub.be](mailto:robin.de.haes@vub.be) |
+| Robin De Haes | 0565683 | [robindehaes@msn.com](mailto:robindehaes@msn.com) |
 | Mudabbir Faheem Hamza | 0574459 | [mudabbir.faheem.hamza@vub.be](mailto:mudabbir.faheem.hamza@vub.be) |
 | Dieter Vandesande | 0565683 | [dieter.vandesande@vub.be](mailto:dieter.vandesande@vub.be) | |
 | Nigel Vinckier | 0530018 | [nigel.vinckier@vub.be](mailto:nigel.vinckier@vub.be) |
